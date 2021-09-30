@@ -4,10 +4,11 @@ Internet retail, also known as **e-commerce**, is the largest sector of the elec
 
 ## Table of Contents 
 - [Installation](#installation)
-- [Usage](#usage)
+- [User Story](#userstory)
 - [License](#license)
-- [Contributing](#contributing)
-- [question](#questions)
+- [Contributors](#contributors)
+- [Question](#questions)
+
 
 
 
@@ -24,8 +25,11 @@ npm install sequelize
 
 ```
 
-### Usage:
-Add details on how to use
+### User Story:
+AS A manager at an internet retail company
+I WANT a back end for my e-commerce website that uses the latest technologies
+SO THAT my company can compete with other e-commerce companies
+
              
 
 ## Licence:
